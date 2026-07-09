@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "AsterSecurityBot",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "Aster-SMP.aternos.me",
